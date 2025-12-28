@@ -108,6 +108,6 @@ Welcome to my GitHub portfolio! Here, I showcase my academic and personal projec
 
 ## 📫 Contact Me
 
-- GitHub: [https://github.com/yourusername](https://github.com/haseeb1969)  
+- GitHub: [https://github.com/haseeb1969](https://github.com/haseeb1969)  
 - Email: abdulhaseebperuse@gmail.com  
 
